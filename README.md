@@ -1,10 +1,14 @@
-# Used_Car_Prediction
+# Used Car Price Prediction - Deployment
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) 
 
-Deployed Link:
-https://used-car-price-pred.herokuapp.com/
+• This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
-Python files: 
-1) model.py : contains build of model
-2) app.py : contains information of frontend(streamlit)
+• If you want to view the deployed model, click on the following link:<br />
+Deployed at: _https://used-car-price-pred.herokuapp.com/_
 
-## will soon have a detailed readme
+• Please do ⭐ the repository, if it helped you in anyway.
+
+• A glimpse of the web app:
+
+![GIF](readme_resources/predicting-genre-web-app.gif)
+
