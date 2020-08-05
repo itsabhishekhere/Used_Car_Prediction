@@ -10,5 +10,4 @@ Deployed at: _https://used-car-price-pred.herokuapp.com/_
 
 • A glimpse of the web app:
 
-![GIF](readme_resources/predicting-genre-web-app.gif)
-
+![GIF](resources/used_car_price.gif)
