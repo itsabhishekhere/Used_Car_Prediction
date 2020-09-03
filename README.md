@@ -11,6 +11,8 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://used-car-price-pred.herokuapp.com/_
 
+This is only for educational and project purpose... Cheers
+
 • Please do ⭐ the repository, if it helped you in anyway.
 
 • A glimpse of the web app:
