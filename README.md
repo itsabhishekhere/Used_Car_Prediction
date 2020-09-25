@@ -1,4 +1,4 @@
-# Used Car Price Prediction - with Deployed Web App
+# Used Car Price Prediction - This is a prediction model deployed with flutter
 
 🚗🚙🚓🚕🚐
 
